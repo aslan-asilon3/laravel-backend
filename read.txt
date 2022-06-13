@@ -1,0 +1,8 @@
+=== source
+https://www.youtube.com/watch?v=xfSks-NdHPw&list=PLz_YkiqIHesvPtvLl2Wz5FtuW44dBt199
+https://www.youtube.com/watch?v=lG_er8ufRjU&list=PL8z-YHNIa8wmvOGldqqxtqJxVBvqhoXbq
+
+
+
+===== auth
+laravel breeze (tailwindcss)
